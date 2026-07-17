@@ -1,0 +1,11 @@
+name: project-astral
+displayName: Project Astral
+author: Tomahawkarc
+version: 0.0.1-dev
+minGameVersion: 159.6
+subtitle: Reconfigure a post-human industrial system.
+description: An original Mindustry V8 campaign about reclaiming a distributed industrial network across a planet and its orbital satellite.
+repo: Tomahawkarc/Project-astral
+hidden: false
+java: false
+iosCompatible: false
